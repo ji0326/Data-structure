@@ -6,7 +6,7 @@
 
 #define TRUE 1 // ������ ���� ��Ÿ��
 #define FALSE 0 // ������ ������ ��Ÿ��
-1
+
 // �׷��� ����ü ����
 typedef struct GraphType {
 	int n; // ������ ������ ��Ÿ���� ����
